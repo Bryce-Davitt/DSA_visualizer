@@ -1,5 +1,7 @@
 # Data Structures & Algorithms Visualizer
 
+WORK IN PROGRESS
+
 An interactive web application for visualizing data structures and algorithms with step-by-step animations and explanations.
 
 ## Features
